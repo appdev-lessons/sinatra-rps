@@ -18,7 +18,7 @@ Then, fork the repository and create your codespace.
 
 ## Starter code
 
-[In our first web app with Sinatra](https://learn.firstdraft.com/lessons/103), we started from scratch. However, along the way, we made a few helpful changes that we decided we would make to every project moving forward from the get-go:
+[In our first web app with Sinatra](https://learn.firstdraft.com/lessons/103-our-first-sinatra-app), we started from scratch. However, along the way, we made a few helpful changes that we decided we would make to every project moving forward from the get-go:
 
 - Automatically reloading code changes without having to restart the web server with the `sinatra-contrib` gem.
 - Better error pages with the `better_errors` gem.
@@ -46,7 +46,7 @@ If you're curious, you can read through the starter code and try to get a sense 
 
 Spend some time exploring [the target](https://rps.matchthetarget.com/). How many paths are you able to visit? (Hint: that is how many routes you will have to create.) What must be happening in each action to generate the HTML that you see?
 
-Try to use what you learned while building [our first web app with Sinatra](https://learn.firstdraft.com/lessons/103), and the [subsequent lesson on view templates and embedded Ruby](https://learn.firstdraft.com/lessons/105), to make your app exactly match the target. It's okay to View Source on the target to see what HTML tags we used, and it's okay to copy-paste content (e.g. the rules from the homepage). But you'll have to figure out what Ruby is running on the back-end to make each dynamic page work on your own.
+Try to use what you learned while building [our first web app with Sinatra](https://learn.firstdraft.com/lessons/103-our-first-sinatra-app), and the [subsequent lesson on view templates and embedded Ruby](https://learn.firstdraft.com/lessons/105-sinatra-view-templates), to make your app exactly match the target. It's okay to View Source on the target to see what HTML tags we used, and it's okay to copy-paste content (e.g. the rules from the homepage). But you'll have to figure out what Ruby is running on the back-end to make each dynamic page work on your own.
 
 When you think you have the target matched, run `rake grade` to get automated feedback.
 
