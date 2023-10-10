@@ -54,7 +54,6 @@ In this project, we've included a bunch of configuration that we've picked up th
 - There is a `spec/` folder that includes automated tests.
 - The `rake grade` command is included to run the automated tests.
 - We started you off with a file called `app.rb` in which to add your routes.
-- There are changes related to getting the app ready to deploy on fly.io.
 
 If you're curious, you can read through the starter code and try to get a sense of what it's all doing, but the important things to know are:
 
