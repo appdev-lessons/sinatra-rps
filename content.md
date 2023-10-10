@@ -4,9 +4,10 @@ In this project, you will build a simple game: Rock, Paper, Scissors.
 
 Here is your target: [rps.matchthetarget.com](https://rps.matchthetarget.com/)
 
----
+<div class="bg-blue-100 py-1 px-5" markdown="1">
 
 [Here is a video for this lesson](https://share.descript.com/view/9QqsWtzkTaz). You should not rely entirely on the video. PLEASE READ the below lesson as you are going through the steps, since there is much more detail in the text than in the video.
+</div>
 
 ## Set up codespace
 
@@ -14,7 +15,7 @@ This project includes automated tests, so click on this button to get started:
 
 LTI{Load Sinatra RPS assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WCsn18gLbByVbZQ7k]{vfdtzJb5bLYqYwuqgeRKpc5d}(10)[Sinatra RPS Project]
 
-Then, fork the repository and create your codespace.
+Then, fork the repository and create your codespace. Revisit [the Hello World lesson if you need a refresher on forking, opening a codespace, and using `rake grade`](https://learn.firstdraft.com/lessons/106-hello-world).
 
 ## Starter code
 
