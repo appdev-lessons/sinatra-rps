@@ -20,7 +20,7 @@ Then, fork the repository and create your codespace.
 
 <div class="bg-blue-100 py-1 px-5" markdown="1">
 
-If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): [Hello World Video](https://share.descript.com/view/aSOPQUdgU9G).
+If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): [Link in bio Video](https://share.descript.com/view/Y4oUaIaI1pU).
 </div>
 
 
