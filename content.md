@@ -51,6 +51,4 @@ Try to use what you learned while building [our first web app with Sinatra](http
 
 When you think you have the target matched, run `rake grade` to get automated feedback.
 
-Get as far as you can on your own! Ask lots of questions!
-
-We'll go through this exercise together in class.
+---
