@@ -14,11 +14,7 @@ LTI{Load Sinatra RPS assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WC
 
 Then, fork the repository and create your codespace. 
 
-If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): 
-
-[Link in bio Video](https://share.descript.com/view/Y4oUaIaI1pU). 
-
-**Note**, in that video we ran our web server with the command `rackup`, but from now on we will use `bin/dev`. You will see that difference below.
+If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): [Link in bio Video](https://share.descript.com/view/Y4oUaIaI1pU). **Note**, in that video we ran our web server with the command `rackup`, but from now on we will use `bin/dev`. You will see that difference below.
 
 ## Starter code
 
