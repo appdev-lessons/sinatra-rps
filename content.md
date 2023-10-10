@@ -51,7 +51,7 @@ In this project, we've included a bunch of configuration that we've picked up th
 
   At the bash prompt.
 
-  We built up to this by first running `rackup` in early projects, and then running just our app file with e.g. `ruby dice.rb`. If you open the `bin/dev` file (look in the `bin/` folder) you will see that this is mostly just a fancy wrapper for our original `rackup` command!
+  We built up to this by first running `rackup` in early projects, and then running just our app file with e.g. `ruby dice.rb`. If you open the `bin/dev` file (look in the `bin/` folder) you will see that this is mostly just a fancy wrapper for our original `rackup` command, which is launched on the last line of the file with `rackup --port=3000`!
   </div>
 
   - `bin/setup` will `bundle install` and perform other initial setup work.
