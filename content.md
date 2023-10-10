@@ -18,11 +18,6 @@ If you need a refresher on forking projects, creating codespaces, and running `r
 
 ## Starter code
 
-<div class="bg-blue-100 py-1 px-5" markdown="1">
-
-[Here is a video for the rest of this lesson](https://share.descript.com/view/9QqsWtzkTaz). You should not rely entirely on the video. PLEASE READ the below lesson as you are going through the steps, since there is much more detail in the text than in the video. As you watch the video, pause it frequently to experiment and write the code being demonstrated.
-</div>
-
 [In our first web app with Sinatra](https://learn.firstdraft.com/lessons/103-our-first-sinatra-app), we started from scratch. However, along the way, we made a few helpful changes that we decided we would make to every project moving forward from the get-go:
 
 - Automatically reloading code changes without having to restart the web server with the `sinatra-contrib` gem.
@@ -59,6 +54,11 @@ If you're curious, you can read through the starter code and try to get a sense 
 
 - Use `bin/dev` to start your web server from now on.
 - You can run `rake grade` to check your work.
+
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+[Here is a video for the rest of this lesson](https://share.descript.com/view/9QqsWtzkTaz). READ the lesson in addition to watching the video. As you watch the video, pause it frequently to experiment and write the code being demonstrated.
+</div>
 
 ## Match the target
 
