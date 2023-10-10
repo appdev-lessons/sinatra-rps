@@ -14,7 +14,11 @@ LTI{Load Sinatra RPS assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WC
 
 Then, fork the repository and create your codespace. 
 
-If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): [Link in bio Video](https://share.descript.com/view/Y4oUaIaI1pU).
+If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): 
+
+[Link in bio Video](https://share.descript.com/view/Y4oUaIaI1pU). 
+
+**Note**, in that video we ran our web server with the command `rackup`, but from now on we will use `bin/dev`. You will see that difference below.
 
 ## Starter code
 
@@ -36,6 +40,20 @@ In this project, we've included a bunch of configuration that we've picked up th
 
 - There is a folder called `bin/` in which we placed a few useful scripts:
   - `bin/dev` starts up our web server, along with a few other niceties.
+
+  <div class="bg-blue-100 py-1 px-5" markdown="1">
+
+  From now on, we will _always_ start our live app preview (web server) by typing:
+
+  ```
+  % bin/dev
+  ```
+
+  At the bash prompt.
+
+  We built up to this by first running `rackup` in early projects, and then running just our app file with e.g. `ruby dice.rb`. If you open the `bin/dev` file (look in the `bin/` folder) you will see that this is mostly just a fancy wrapper for our original `rackup` command!
+  </div>
+
   - `bin/setup` will `bundle install` and perform other initial setup work.
 - There is a `spec/` folder that includes automated tests.
 - The `rake grade` command is included to run the automated tests.
