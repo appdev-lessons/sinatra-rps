@@ -15,7 +15,14 @@ This project includes automated tests, so click on this button to get started:
 
 LTI{Load Sinatra RPS assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WCsn18gLbByVbZQ7k]{vfdtzJb5bLYqYwuqgeRKpc5d}(10)[Sinatra RPS Project]
 
-Then, fork the repository and create your codespace. Revisit [the Hello World lesson if you need a refresher on forking, opening a codespace, and using `rake grade`](https://learn.firstdraft.com/lessons/106-hello-world).
+Then, fork the repository and create your codespace. 
+
+
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): [Hello World Video](https://share.descript.com/view/aSOPQUdgU9G).
+</div>
+
 
 ## Starter code
 
