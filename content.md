@@ -2,12 +2,9 @@
 
 In this project, you will build a simple game: Rock, Paper, Scissors.
 
-Here is your target: [rps.matchthetarget.com](https://rps.matchthetarget.com/)
+Here is your target: 
 
-<div class="bg-blue-100 py-1 px-5" markdown="1">
-
-[Here is a video for this lesson](https://share.descript.com/view/9QqsWtzkTaz). You should not rely entirely on the video. PLEASE READ the below lesson as you are going through the steps, since there is much more detail in the text than in the video.
-</div>
+[rps.matchthetarget.com](https://rps.matchthetarget.com/)
 
 ## Set up codespace
 
@@ -17,14 +14,14 @@ LTI{Load Sinatra RPS assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WC
 
 Then, fork the repository and create your codespace. 
 
+If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): [Link in bio Video](https://share.descript.com/view/Y4oUaIaI1pU).
+
+## Starter code
 
 <div class="bg-blue-100 py-1 px-5" markdown="1">
 
-If you need a refresher on forking projects, creating codespaces, and running `rake grade`, then please watch this video again (you should watch at 2x speed for a quick review): [Link in bio Video](https://share.descript.com/view/Y4oUaIaI1pU).
+[Here is a video for the rest of this lesson](https://share.descript.com/view/9QqsWtzkTaz). You should not rely entirely on the video. PLEASE READ the below lesson as you are going through the steps, since there is much more detail in the text than in the video. As you watch the video, pause it frequently to experiment and write the code being demonstrated.
 </div>
-
-
-## Starter code
 
 [In our first web app with Sinatra](https://learn.firstdraft.com/lessons/103-our-first-sinatra-app), we started from scratch. However, along the way, we made a few helpful changes that we decided we would make to every project moving forward from the get-go:
 
