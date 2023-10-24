@@ -29,6 +29,7 @@ With each app you build, you will find that you carry forward more and more tric
 
 In this project, we've included a bunch of configuration that we've picked up through experience:
 
+- There is a folder and file called `config/environment.rb` that has configuration settings we want to load (in this case just the "better errors" error page settings).
 - There is a folder called `bin/` in which we placed a few useful scripts:
   - `bin/dev` starts up our web server, along with a few other niceties.
 
